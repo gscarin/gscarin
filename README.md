@@ -2,7 +2,7 @@
 
 - 🤓 Atualmente trabalho como cientista de dados.
 - 🌱 Estou aprendendo modelos de machine learning.
-- ⚡ Fun fact: Eu amo pizza 🍕
+- ⚡ Fun fact: Eu amo café e pizza 🍕
 
 ##
  <div>
