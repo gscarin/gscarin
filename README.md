@@ -7,7 +7,7 @@ dateFormat  YYYY-MM-DD
 title My Timeline
 
 section Carreira
-Jussi		      :active,, 2018-07-01,2019-05-01
+Jussi		               :active,, 2018-07-01,2019-05-01
 Laureate Universities :active,, 2019-05-01,2019-11-01
 Oficina de Valor      :active,, 2019-11-01,2022-06-01
 Renova Invest         :active,, 2022-07-01,2024-12-31
@@ -17,6 +17,7 @@ Renova Invest         :active,, 2022-07-01,2024-12-31
 
 
 - 🤓Curr. Data Specialist at Renova Invest
+- 
 Meu entusiasmo consiste em construir os sistemas e a infraestrutura necessários para coletar, armazenar e processar grandes volumes de dados. Trabalho em estreita colaboração com cientistas de dados, analistas e outros profissionais para entender suas necessidades e implementar soluções escaláveis. Sou especializado em linguagens de programação como Python e tenho conhecimento avançado em tecnologias como Hadoop, Spark, SQL e plataformas de nuvem como AWS ou Azure.
 
 Minha missão é desbloquear informações valiosas, capacitar a tomada de decisões orientada por dados e revelar insights profundos em conjuntos de dados complexos.
