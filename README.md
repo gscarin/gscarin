@@ -12,12 +12,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gscarin&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gabs-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gabs-Sql" height="50" width="60" src="thttps://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg">
-  <img align="center" alt="Gabs-AWS" height="50" width="60" src= "https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
- <img align="center" alt="Gabs-apache" height="50" width="60" src= "https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg">
-</div>
   
   ##
   
